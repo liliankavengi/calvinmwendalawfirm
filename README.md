@@ -37,20 +37,11 @@ A professional, responsive website for Calvin Mwenda Co & Advocates, a leading l
 
 ```
 calvin-mwenda-website/
-├── index.html              # Home page
-├── about.html              # About page  
-├── services.html           # Services page
-├── contact.html            # Contact page
-├── css/
-│   └── styles.css         # Main stylesheet
-├── js/
-│   └── script.js          # Main JavaScript file
-├── images/                # Image assets (if using local images)
-│   ├── hero-1.jpg
-│   ├── hero-2.jpg
-│   └── team/
-├── README.md              # Project documentation
-└── deploy-instructions.md # Deployment guide
+project-folder/
+├── index.html          # Main HTML file
+├── styles.css          # All CSS styles
+├── script.js           # All JavaScript functionality
+└── README.md           # Project documentation
 ```
 
 ## 🛠️ Technologies Used
@@ -188,6 +179,7 @@ calvin-mwenda-website/
 3. Or connect GitHub repository for automatic deployments
 4. Custom domain setup available
 5. HTTPS enabled by default
+6. Access the site here(https://calvinmwendalawfirm.netlify.app/)
 
 ### **Option 3: Vercel**
 1. Install Vercel CLI: `npm i -g vercel`
